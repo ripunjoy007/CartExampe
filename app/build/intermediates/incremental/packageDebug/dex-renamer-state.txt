@@ -1,0 +1,7 @@
+#Tue Jun 20 11:25:53 IST 2017
+base.0=C\:\\Users\\Ripunjoy\\Desktop\\cart example\\CartExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_81a1871e974f65e98385da47fc9bbe5c47fa58be
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Ripunjoy\\Desktop\\cart example\\CartExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e23785a16b4e4261dd3e15cbedf5ab19c4cd8e0\\classes.dex
+base.1=C\:\\Users\\Ripunjoy\\Desktop\\cart example\\CartExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e23785a16b4e4261dd3e15cbedf5ab19c4cd8e0
+file.0=C\:\\Users\\Ripunjoy\\Desktop\\cart example\\CartExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_81a1871e974f65e98385da47fc9bbe5c47fa58be\\classes.dex
